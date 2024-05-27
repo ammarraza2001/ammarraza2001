@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ammarraza2001
-- 👀 I’m interested in software development, artificial intelligence, app development, and the law side of tech.
+- 👀 I’m interested in software development, artificial intelligence, app development, HFT, and Financial Engineering.
 - 🌱 I’m currently doing my bachelors in Computer Science at the University of Illinois at Urbana-Champaign.
 - 📫 You can reach me at sammarraza2001@gmail.com for any queries or job offers.
